@@ -1,1 +1,1 @@
-# Jogo-Comp-Grafica
+# Jogo da Disciplina de Computação Gráfica
